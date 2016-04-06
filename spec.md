@@ -57,6 +57,8 @@ Repo Name: UGA
   - voter_registration.csv
 - The repository root includes a script folder that has static-api generator scripts and linters for verifying the validity of processed csv files
 
+-**Note:** We will not cover US Elections
+
 #### Process
 
 For any new country, a contributor makes a copy of the election-seed repo that has the skeleton for the data structure and save it as a new repository using the country's alpha-3 code.
